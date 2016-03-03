@@ -35,6 +35,12 @@ class Caboose {
             'js' => 'jquery.lightbox-0.5.min.js',
             'template' => 'lightbox'
         ),
+                'jrating' => array(
+             'css' => 'jRating.jquery.css',
+             'js' => 'jRating.jquery.js',
+             'template' => 'jrating'
+         ),
+        
        'confirm' => array(
             'css' => '',
             'js' => 'bootstrap-confirmation.js',
